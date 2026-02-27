@@ -52,18 +52,6 @@ I enjoy turning complex problems into clean, efficient, and business-ready softw
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=milad-pc&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=milad-pc&show_icons=true&layout=compact" />
-</p>
-
----
-
 ## 🎯 Professional Mindset
 
 > I believe successful software is not just about writing code —
